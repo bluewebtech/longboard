@@ -1,0 +1,24 @@
+{
+  "name": "longboard",
+  "version": "1.0.0",
+  "description": "Longboard is a ORM library similar to Eloquent built around the JSON API specification.",
+  "main": "index.js",
+  "scripts": {
+    "build" : "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluewebtech/longboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluewebtech/longboard/issues"
+  },
+  "homepage": "https://github.com/bluewebtech/longboard#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
